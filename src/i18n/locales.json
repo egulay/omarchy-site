@@ -261,13 +261,12 @@
   },
   "en-SG": {
     "name": "English (SG)",
-    "domain": "https://omarchy.sg",
+    "domain": "https://sg.omarchy.org",
     "formatLocale": "en-SG",
     "ogLocale": "en_SG",
     "manual": false,
     "contentLocale": "en",
-    "flag": "SG",
-    "aliases": ["www.omarchy.sg"]
+    "flag": "SG"
   },
   "en-AU": {
     "name": "English (AU)",
